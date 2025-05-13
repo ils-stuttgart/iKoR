@@ -6,5 +6,8 @@
 5. Burkhardt, Ulrike, and Bernd Kärcher. "Global radiative forcing from contrail cirrus." Nature climate change 1.1 (2011): 54-58.
 6. Schumann, Ulrich. "A contrail cirrus prediction model." Geoscientific Model Development 5.3 (2012): 543-580.
 7. Towards Deep Learning-Based Estimation of Contrail Environmental Impact: Transatlantic Flights as a Case Study” (submitted to DASC’25)
+8. E. Riggi-Carrolo, T. Dubot, C. Sarrat, and J. Bedouet, “Ai-driven identification of contrail sources: Integrating satellite observation and air traffic data,” Journal of Open Aviation Science, vol. 1, no. 2, 2023.
+
+
 
 
